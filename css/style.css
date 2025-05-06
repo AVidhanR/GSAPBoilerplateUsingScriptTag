@@ -8,8 +8,10 @@ body {
 }
 
 .box {
-  width: 100px;
-  height: 100px;
+  width: 45px;
+  height: 45px;
+  border-radius: 10px;
+  margin-top: 0.5rem;
 }
 
 .gradient-green {
